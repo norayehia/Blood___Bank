@@ -6,6 +6,48 @@ A new Flutter application.
 With team  NoraYehia,Hayam,Ahmedsheta
 
 
+In api part
+
+اول حاجه
+
+
+
+اخر حاجه
+Get data
+1  عندي urlمن get data. Php
+2احطه في سيرش هيطلع داتا من داتابيز شكلjson
+3اروح على موقع from jsontodart
+واحط داتا هيطلع كلاس يناسب الداتا دي بيdart
+اخده واحطه في model. Dart
+بختصار انا عايز الداتا في listمنobjectمن كلاس الي اتعمل ده
+4مفروض في صفحه الlistview builderاحطها بس 
+حطتيت داله ده في فايلnetwork. dart
+عباره عن ميثود future
+بترجع مش بvoid
+بترجعlist object class
+منget php url  داله get data
+وdecod from json to object
+
+
+وبعد كده 5اروح في فايل listvoewbuilder
+واعطيها انها تاخد item itemمنlist
+وتعرضه 
+وتقف بlist. Length
+........................................ 
+
+Register
+1عند ي طبعا Form 
+Textinputfield
+اعرف controlerواديله اسم 
+وناد اسم في input
+2  onpressed
+دالهsignup
+3  الداله دي بتاخد داتا cotroller
+وبعدي اشوف لو مش صفر ويوزر فعلا دخل دالتا اروح url api
+Encodeداتا لjso n
+هناك
+ يروح url register api
+
 
 
 
